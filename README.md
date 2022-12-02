@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @CPlayxs
-- 👀 I’m interested in become a game developer
-- 🌱 I’m currently learning CSharp, Unity and Blender
+Colombian 3D modeler future game developer
+Linux user
+
+I like penguins btw
 
 <!---
 CPlayxs/CPlayxs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
