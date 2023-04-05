@@ -1,8 +1,10 @@
-Colombian 3D modeler future game developer
+Colombian 3D modeler and future game developer
 
 Linux user
 
-I like penguins btw
+Likes penguins
+
+https://solo.to/playxs
 
 <!---
 CPlayxs/CPlayxs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
